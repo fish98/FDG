@@ -1,0 +1,26 @@
+{
+  "name": "fakedatagen",
+  "version": "1.0.0",
+  "description": "fake data generator ",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fish98/FDG.git"
+  },
+  "keywords": [
+    "fake",
+    "mock"
+  ],
+  "author": "ttfish",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fish98/FDG/issues"
+  },
+  "homepage": "https://github.com/fish98/FDG#readme",
+  "dependencies": {
+    "mockjs": "^1.0.1-beta3"
+  }
+}
